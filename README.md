@@ -18,3 +18,13 @@ UberTypograf — скрипт для Фотошопа, улучшающий ру
 
 **! В версиях CS6 и ниже не проверял, но скорее всего работать НЕ будет.**
 
+## Как устанавливать
+
+1. [Скачайте](https://gum.co/ubertypograf) последнюю версию типографа 
+2. Поместите файл UberTypograf.jsxbin в папку *Scripts*...  
+OS X: `/Applications/[Photoshop]/Presets/Scripts/`  
+Windows: `C:\[папка Program Files]\Adobe\[папка Photoshop]\Presets\Scripts\`
+3. Перезупаустите Photoshop, если он был открыт.
+4. Теперь в *File → Scripts* должен появится пункт **UberTypograf**.
+5. Выделите один или несколько текстовых слоёв и запустите скрипт.
+
