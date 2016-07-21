@@ -1,7 +1,8 @@
  
  /*
- // UberTypograf for Photoshop
- // Типограф для Фотошопа
+ // UberTypograf rules for Photoshop
+ // Правила типографа для Фотошопа
+ // v. 1.0
  */
  
  /*
